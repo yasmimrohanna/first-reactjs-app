@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Estudar ReactJS",
+      "description": "Iniciar os estudos através de documentações e vídeos",
+      "finished": false,
+      "createdAt": "2020-12-18T19:21:00-03:00",
+      "updatedAt": "2020-12-18T19:21:00-03:00"
+    },
+    {
+      "title": "Teste",
+      "description": "Teste",
+      "finished": true,
+      "createdAt": "2020-12-20T16:52:46-03:00",
+      "updatedAt": "2020-12-20T16:54:59-03:00",
+      "id": 2
+    }
+  ]
+}
